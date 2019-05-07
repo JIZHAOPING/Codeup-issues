@@ -5,19 +5,4 @@
 ##### *错误写法*
 ![mistake](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190507132331.png "错误写法")
 ##### ***正确写法***
-```
-	int main(){
-		int N,M,a;
-		scanf("%d",&N);
-		while(N--){
-			int sum=0;
-			scanf("%d",&M);
-			for(int i=0;i<M;i++){
-					scanf("%d",&a);
-					sum+=a;
-				}
-			printf("%d\n\n",sum);		
-		}
-		return 0;
-	}
-```
+![right](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190507132331.png "正确写法")
