@@ -16,6 +16,6 @@
 ### Contest100000575 - 《算法笔记》3.1小节——入门模拟->简单模拟
 ### 问题 A: 剩下的树
 #### *错误写法*
-![mistake]()
+![mistake](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190508180736.png "错误写法")
 #### ***正确***
-![right]()
+![right](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/~WT%243%25IIE%5DPZMXQBYBDTN6X.png "正确写法")
