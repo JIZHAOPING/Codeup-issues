@@ -6,3 +6,9 @@
 ![mistake](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190507132331.png "错误写法")
 ##### ***正确写法***
 ![right](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190507151124.png "正确写法")
+
+### pat B1032 挖掘机技术哪家强
+##### *错误写法*
+![mistake]()
+##### ***正确写法***
+![right]()
