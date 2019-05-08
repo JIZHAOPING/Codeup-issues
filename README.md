@@ -9,6 +9,6 @@
 
 ### pat B1032 挖掘机技术哪家强
 ##### *错误写法*
-![mistake]()
+![mistake](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190508145113.png "错误写法")
 ##### ***正确写法***
-![right]()
+![right](https://raw.githubusercontent.com/JIZHAOPING/Codeup-issues/master/imgs/QQ%E5%9B%BE%E7%89%8720190508145020.png "正确写法")
